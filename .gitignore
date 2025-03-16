@@ -16,3 +16,5 @@ _cgo_*
 _obj
 /VERSION.cache
 /pkg/
+/src/cmd/results/
+/src/cmd/lexer/input.txt
